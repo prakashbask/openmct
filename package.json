@@ -17,7 +17,9 @@
     "minimist": "^1.1.1",
     "painterro": "^0.2.65",
     "request": "^2.69.0",
-    "vue": "^2.5.6"
+    "vue": "^2.5.6",
+    "printj": "^1.1.0",
+    "html2canvas": "^1.0.0-alpha.12"
   },
   "devDependencies": {
     "bower": "^1.7.7",
